@@ -20,7 +20,13 @@
 			System.out.println("電話");
 		}
 
-		public
+		public void photo(){
+			System.out.println("写真");
+		}
+
+		public void internet(){
+			System.out.println("インターネット");
+		}
 
 
  }
