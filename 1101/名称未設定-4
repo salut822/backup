@@ -1,0 +1,77 @@
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>ブログ・ニュース系コンテンツページ</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <img src="4eachblog_logo.jpg">            
+    <header>
+        <div>
+           <ul>
+               <li><a href="">トップ</a></li>
+               <li><a href="">プロフィール</a></li>
+               <li><a href="">4eachについて</a></li>
+               <li><a href="">登録フォーム</a></li>
+               <li><a href="">問い合わせ</a></li>
+            </ul>
+        </div>
+    </header>
+          
+    <div style="width: 100%;height: 72%;">
+        <div style="margin: 0px 0 40px 0px;">
+            <h1 style="margin-top: 20px;border-left: 5px solid black;border-bottom: 2px solid black;padding-left: 10px;">プログラミングに役立つ書籍</h1>
+        </div>
+        <p>2017年1月15日</p>
+        <img src="bookstore.jpg" width="40%"> 
+    
+        <div class="rightside">   
+            <h3>人気の記事</h3>
+            <ul>
+       <li><a href="">PHP オススメ本</a></li>
+         <li><a href="">PHP　MyAdminの使い方</a></li>
+         <li><a href="">今人気のエディタ　Top5</a></li>
+        <li><a href="">HTMLの基礎</a></li>
+
+            <h3>オススメリンク</h3><br>
+                <li><a href="">インターノウス株式会社</a></li>
+                <li><a href="">XAMPPのダウンロード</a></li>
+                <li><a href="">Eclipseのダウンロード</a></li>
+                <li><a href="">Bracketsのダウンロード</a></li>
+
+            <h3>カテゴリ</h3>
+                <li><a href="">HTML</a></li>
+                <li><a href="">PHP</a></li>
+                <li><a href="">MySQL</a></li>
+            <li><a href="">VavaScript</a></li>
+                </ul>
+        </div>
+    </div>
+    <div>
+        <div>
+            <p style="padding: 0 0 30px 0;">4cachはインターノウスが提供するオンラインでプログラミングができるイーラーニングシステムです。</p>
+        </div>
+        <p>記事中身</p>
+    </div>
+                
+    <div class="box">
+        <div class="box1">
+            <ul>
+                <li><img src="pic1.jpg">ドメイン取得情報</li>
+                <li><img src="pic2.jpg">快適な職場環境</li>
+                <li><img src="pic3.jpg">Linuxの基礎</li>
+                <li><img src="pic4.jpg">マーケティング</li>
+
+                <li><img src="pic5.jpg">アクティブラーニング</li>
+                <li><img src="pic6.jpg">CSSの効率的な勉強法</li>
+                <li><img src="pic7.jpg">リーダブルコードとは</li>
+                <li><img src="pic8.jpg">HTML5の可能性</li>
+            </ul>          
+        </div>
+            
+        <footer>
+            copyright internous | 4each blog is the one which provides A to Z about programming.
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+
+public class Test{
+	public static void main(String[]args){
+
+		Person hanako=new Person();
+		hanako.name="鈴木花子";
+		hanako.age=16;
+		System.out.println(hanako.name);
+		System.out.println(hanako.age);
+
+		Person salut=new Person();
+		salut.name="板倉彩留";
+		salut.age=23;
+		System.out.println(salut.name);
+		System.out.println(salut.age);
+	}
+
+	}
+
+}

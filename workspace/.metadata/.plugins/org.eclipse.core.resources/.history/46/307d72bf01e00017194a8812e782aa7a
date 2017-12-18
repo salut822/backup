@@ -1,0 +1,2 @@
+
+public class SmartPhone extends Phone implemens Mp3Player,NewFunction{}

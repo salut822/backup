@@ -1,0 +1,17 @@
+
+public class Test{
+	public static void main(String[]args){
+		Person jiro=new Person();
+		jiro.name="木村次郎";
+		jiro.age=18;
+
+		Person hanako=new Person();
+		hanako.name="鈴木花子";
+		hanako.age=16;
+
+		Person salut=new Person();
+		salut.name="板倉彩留";
+		salut.age=23;
+	}
+
+}

@@ -1,0 +1,25 @@
+
+public class Test{
+	public static void main(String[]args){
+
+		Person salut=new Person();
+		salut.name="板倉彩留";
+		salut.age=23;
+		salut.phoneNumber="080-6358-6801";
+		salut.address="vaa.srts12@ezweb.ne.jp";
+		salut.pass="si822";
+
+		System.out.println(salut.name);
+		System.out.println(salut.age);
+		System.out.println(salut.phoneNumber);
+		System.out.println(salut.address);
+		System.out.println(salut.pass);
+
+		salut.talk();
+		salut.walk();
+		salut.run();
+
+
+	}
+
+	}
